@@ -1,1 +1,1 @@
-<script>console.log("This is an external script test.");</script>;
+console.log("This is an external script test.");
